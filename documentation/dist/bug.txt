@@ -1,0 +1,2 @@
+bug编号                                              bug描述                                                                                                                                                                                                                                                           bug状态
+  1              用户登录后台获取Ignite Realtime 动态失败，订阅RSS失败，拿不到准确的信息                                                                                       未修复：需要找到feedUrl的设定位置，修改该链接。直接去掉                     
